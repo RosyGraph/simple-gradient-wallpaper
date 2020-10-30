@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 import sys
 from random import choice, randint
 from PIL import Image, ImageDraw, ImageColor
